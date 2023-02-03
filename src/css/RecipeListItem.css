@@ -1,0 +1,25 @@
+.carousel-container {
+    display: inline-block;
+    overflow: hidden;
+    padding: 20px;
+    margin: 0 auto;
+    height: 200px;
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+}
+
+.RecipeListHolder {
+    max-width: 60%;
+    display: inline-block;
+}
+
+.recipeListImg {
+    padding-bottom: 20px;
+}
+
+.login-link-rlh {
+    color: #0000EE;
+}
+
+.loginMessage {
+    font-size: 18px;
+}

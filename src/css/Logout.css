@@ -1,0 +1,26 @@
+.Logout {
+    padding-top: 20px;
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+}
+
+.logout-title {
+    padding-bottom: 15px;
+}
+
+.logoutButton {
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    background-color: #ffa700;
+    border: none;
+    color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+    cursor: pointer;
+    height: 30px;
+}

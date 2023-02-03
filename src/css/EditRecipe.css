@@ -1,0 +1,192 @@
+.EditRecipe-main {
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+    font-size: 15px;
+}
+
+.edit-imagevid {
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+}
+
+.editimg {
+    padding-bottom: 15px;
+    padding-top: 18px;
+}
+
+.EditRecipe-Header {
+    color: #ff8800;
+}
+
+.edit-title {
+    font-size: 20px;
+}
+
+.editbody-container-recipe {
+    display: inline-block;
+    text-align: left;
+    padding-left: 50px;
+    vertical-align: top;
+    width: 400px;
+    padding-bottom: 50px;
+}
+
+.Edit-image-input {
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+    box-sizing: border-box;
+    height: 30px;
+    width: 220px;
+    position: relative;
+    border: 1px solid #E6E6E6;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    color: #282828;
+    border-radius: 8px;
+}
+
+.Edit-yt-input {
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+    box-sizing: border-box;
+    height: 30px;
+    width: 208px;
+    position: relative;
+    border: 1px solid #E6E6E6;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    color: #282828;
+    border-radius: 8px;
+}
+
+.edit-instruction-input {
+    border: 0;
+    outline: 0;
+}
+
+.Edit-title-input {
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+    box-sizing: border-box;
+    height: 30px;
+    width: 220px;
+    position: relative;
+    border: 1px solid #E6E6E6;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    color: #282828;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+
+.limitReached {
+    padding-top: 10px;
+    color: #ff8800;
+}
+
+.invalidTitle {
+    color: #ff8800;
+}
+
+.UpdateIngredient {
+    border-radius: 8px;
+    background-color: #ffa700;
+    border: none;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+    cursor: pointer;
+    height: 25px;
+}
+
+.Edit-Instruction-input {
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+    box-sizing: border-box;
+    height: 30px;
+    width: 220px;
+    position: relative;
+    border: 1px solid #E6E6E6;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    color: #282828;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+
+.padded-input {
+    display: inline-block;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.edit-title-padding {
+    padding-bottom: 8px;
+}
+
+.EditRecipe-update-btn {
+    border-radius: 8px;
+    background-color: #ffa700;
+    border: none;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+    cursor: pointer;
+    height: 30px;
+}
+
+.cancel_button {
+    border-radius: 8px;
+    border: 1.5px solid #ff6f00;;
+    background-color: white;
+    color: #ff6f00;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+    cursor: pointer;
+    height: 30px;
+}
+
+.cancel-div {
+    display: inline-block;
+    padding-top: 20px;
+    padding-right: 12px;
+}
+
+.update-div {
+    display: inline-block;
+    padding-top: 20px;
+}
+
+.noUserMessage {
+    color: #ffa700;
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+
+.edit-personalnotes {
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+    padding: 10px;
+    height: 50px;
+    width: 260px;
+    border: 1px solid #a9a9a9;
+    font-size: 16px;
+}
+
+.personalnotes {
+    padding-bottom: 10px;
+}

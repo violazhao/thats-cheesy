@@ -1,0 +1,22 @@
+.recipe_full_container {
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+}
+
+.imagevid {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 10px;
+}
+
+.body-container-recipe {
+    display: inline-block;
+    text-align: left;
+    padding-left: 50px;
+    vertical-align: top;
+    width: 400px;
+    padding-bottom: 50px;
+}
+
+.editlink {
+    color: #ff8800;
+}

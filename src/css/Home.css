@@ -1,0 +1,56 @@
+.Home-Header {
+  background-image: url("https://img.freepik.com/free-vector/cheese-isolated-cartoon-art-illustration_56104-624.jpg?w=2000");
+  animation: bg-animation 5s infinite;
+  background-size: 550px;
+  background-position: center;
+  width: 100%;
+  font-family: 'https://fonts.googleapis.com/css?family=Actor';
+  /* border-radius: 20%; */
+  padding-bottom: 50px;
+  padding-top: 15px;
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🐭</text></svg>") 16 0,auto;
+}
+
+@keyframes bg-animation {
+  0% {background-position: 0 0;}
+  50% {background-position: 10% 0;}
+  100% {background-position: 0 0;}
+}
+
+.Home-h3 {
+  padding-top: 10px;
+}
+
+.Home-Header h1 {
+  font-size: 35px;
+  color: black;
+  margin-bottom: 2rem;
+  font-family: 'https://fonts.googleapis.com/css?family=Actor';
+}
+
+.Home-Header h3 {
+  font-size: 20px;
+  /* font-weight: bold; */
+  color: black;
+  /* text-shadow: 2px 2px 4px #000000; */
+  font-family: 'https://fonts.googleapis.com/css?family=Actor';
+}
+
+.addrecipe-btn {
+  border-radius: 8px;
+  background-color: #ffa700;
+  border: 1px solid black;
+  color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 50px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: 'https://fonts.googleapis.com/css?family=Actor';
+  cursor: pointer;
+}
+
+.add-btn {
+  padding-bottom: 15px;
+}

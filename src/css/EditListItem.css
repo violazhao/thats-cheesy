@@ -1,0 +1,30 @@
+.emptyListItem {
+    color: #ff8800;
+}
+
+.ListItembtn {
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: white;
+    color: #ff8800;
+    text-decoration: underline;
+    padding-left: 20px;
+}
+
+.EditListItem-input {
+    font-family: 'https://fonts.googleapis.com/css?family=Actor';
+    height: 30px;
+    width: 220px;
+    position: relative;
+    border: 0.2px solid #E6E6E6;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #282828;
+}
+
+.EditListItem {
+    padding-bottom: 10px;
+}
